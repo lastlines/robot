@@ -18,7 +18,7 @@
 
 ### ☕ Deploy ke Heroku
 
-[![Deploy Disini](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMA1899/RobotIn)
+[![Deploy Disini](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lastlines/robot)
 
 Dapatkan pyrogram (p)  `SESSION` dari :
 [![Klik Disini](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
